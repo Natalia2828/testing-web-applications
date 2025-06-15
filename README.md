@@ -6,4 +6,4 @@ https://drive.google.com/drive/folders/1OM7EIITMDAQ3L_FUFniR4GCiCxp5t1a2?usp=sha
 
 
 
-Тестируем модули корзины, оплаты и оформления заказов https://drive.google.com/file/d/1U2ZJnNTUSohLgYxc1e2IvVc8Q3vlEojO/view?usp=sharing
+Тестируем модули корзины, оплаты и оформления заказов https://docs.google.com/spreadsheets/d/1ixOpAKm0RSdW5K4lslo4D36nth--V4u5/edit?usp=sharing&ouid=117049323065090535697&rtpof=true&sd=true
